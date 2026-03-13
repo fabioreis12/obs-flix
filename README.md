@@ -31,5 +31,5 @@ O projeto utiliza **Docker Compose** para orquestrar o serviço da API e o servi
 ### Passo a Passo
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/obs-flix.git](https://github.com/SEU_USUARIO/obs-flix.git)
+   git clone [https://github.com/fabioreis12/obs-flix](https://github.com/fabioreis12/obs-flix)
    cd obs-flix
